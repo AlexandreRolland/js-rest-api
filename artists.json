@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Gilles d'or",
+        "type": "variété française",
+        "description": "Le crack"
+    },
+    {
+        "id": 2,
+        "name": "IU",
+        "type": "Kpop",
+        "description": "Sympa"
+    },
+    {
+        "id": 3,
+        "name": "Nepal",
+        "type": "Rap",
+        "description": "Parti trop tôt..."
+    }
+]
